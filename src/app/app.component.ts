@@ -10,4 +10,5 @@ import { RouterOutlet } from '@angular/router';
 })
 export class AppComponent {
   title = 'gdg_abidjan';
+  interpollation = "Ceci est une interpollation"
 }
